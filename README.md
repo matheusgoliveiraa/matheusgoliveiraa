@@ -1,7 +1,7 @@
 # Matheus Oliveira
 
 - 💻 Back-End Developer.
-- 👨🏻‍🎓  Formado em Análise e Desenvolvimento de Sistemas.
+- 👨🏻‍🎓  Graduated in Systems Analysis and Development.
 - 🖥 Enthusiastic about technology in general, but I have a greater affinity for back-end development.
   
 ## Languages and Technologies 👨‍💻
