@@ -1,9 +1,18 @@
-# Matheus Oliveira
+# 👋 Olá, eu sou Matheus Oliveira!
 
-- 💻 Back-End Developer.
-- 👨🏻‍🎓  Graduated in Systems Analysis and Development.
-- 🖥 Enthusiastic about technology in general, but I have a greater affinity for back-end development.
-  
+<p align="left">
+  Sou desenvolvedor e entusiasta de tecnologia, com foco em transformar conceitos complexos em soluções práticas e eficientes. <br>
+  Atualmente estou direcionando meus estudos para <strong>C#</strong>, buscando aplicar o conhecimento em projetos reais e desafiadores.
+</p>
+
+## Sobre mim
+
+- 🖥️ Apaixonado por desenvolvimento de software e resolução de problemas.
+- 🎓 Autodidata, sempre em busca de novos desafios e aprendizados.
+- 📚 Estudando atualmente: C#, SQL e Algoritmos.
+- 👨🏻‍🎓 Graduado em Análise e Desenvolvimento de Sistemas.
+- 🚀 Maior afinidade com o desenvolvimento back-end, mas aberto a novas tecnologias.
+
 ## Languages and Technologies 👨‍💻
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
