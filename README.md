@@ -7,7 +7,7 @@
 
 ## Sobre mim
 
-- 🖥️ Apaixonado por desenvolvimento de software e resolução de problemas.
+- 🖥️ Apaixonado por desenvolvimento de software.
 - 🎓 Autodidata, sempre em busca de novos desafios e aprendizados.
 - 📚 Estudando atualmente: C#, SQL e Algoritmos.
 - 👨🏻‍🎓 Graduado em Análise e Desenvolvimento de Sistemas.
