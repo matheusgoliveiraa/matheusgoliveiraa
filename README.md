@@ -2,7 +2,7 @@
 
 <p align="left">
   Sou desenvolvedor e entusiasta de tecnologia, com foco em transformar conceitos complexos em soluções práticas e eficientes. <br>
-  Atualmente estou direcionando meus estudos para <strong>C#</strong>, buscando aplicar o conhecimento em projetos reais e desafiadores.
+  Atualmente estou direcionando meus estudos para <strong>Python</strong>, buscando aplicar o conhecimento em projetos reais e desafiadores.
 </p>
 
 ## Sobre mim
