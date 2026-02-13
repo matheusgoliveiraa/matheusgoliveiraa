@@ -9,7 +9,7 @@
 
 - 🖥️ Apaixonado por desenvolvimento de software.
 - 🎓 Autodidata, sempre em busca de novos desafios e aprendizados.
-- 📚 Estudando atualmente: Python, SQL, AWS.
+- 📚 Estudando atualmente: HTML, CSS, JavaScript, Python, SQL, AWS.
 - 👨🏻‍🎓 Graduado em Análise e Desenvolvimento de Sistemas.
 - 🚀 Maior afinidade com o desenvolvimento back-end, mas aberto a novas tecnologias.
 
